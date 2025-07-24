@@ -14,6 +14,62 @@
 
 ---
 
+<h2 align="left">👨‍💻 Sobre Mim</h2>
+
+<p align="left">
+  Estudante de Engenharia da Computação, com uma paixão por resolver problemas complexos. Meu objetivo é utilizar a tecnologia para criar soluções inovadoras e de alto impacto.
+</p>
+
+---
+
+<h3 align="left">🎓 Formação Acadêmica</h3>
+
+<p align="left">
+  Minha jornada na tecnologia é diversificada, abrangendo desde o ensino técnico até a graduação em tecnologia.
+</p>
+
+<ul>
+  <li>
+    <b>Engenharia da Computação</b> (Cursando) <br>
+    <i>Universidade Federal do Rio Grande do Norte (UFRN)</i>
+  </li>
+  <li>
+    <b>Ciência e Tecnologia</b> <br>
+    <i>Universidade do Estado do Rio Grande do Norte (UERN)</i>
+  </li>
+  <li>
+    <b>Técnico em Informática</b> (Concluído) <br>
+    <i>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)</i>
+  </li>
+</ul>
+
+---
+
+<h3 align="left">🚀 Principais Interesses e Conhecimentos</h3>
+
+<ul>
+  <li>
+    <b>🤖 Machine Learning & Deep Learning:</b> Sólido conhecimento em algoritmos de classificação. Experiência prática no desenvolvimento de modelos preditivos.
+  </li>
+  <li>
+    <b>🔧 LLMs e IA Generativa:</b> Explorando o potencial de modelos de linguagem (LLMs) como GPT e BERT, e da IA Generativa para criar conteúdo, chatbots e soluções inovadoras em Processamento de Linguagem Natural (PLN).
+  </li>
+  <li>
+    <b>📷 Visão Computacional (CNNs):</b> Experiência com Redes Neurais Convolucionais para processamento de imagens.
+  </li>
+  <li>
+    <b>🐍 Python & Ecossistema de IA:</b> Proficiência em Python e suas principais bibliotecas para IA, como TensorFlow, PyTorch, Scikit-learn, Pandas e NumPy.
+  </li>
+</ul>
+
+---
+
+<h3 align="left">💼 Atualmente</h3>
+
+<p align="left">
+ Atuante no projeto de iniciação científica pela MODEL2AI.
+</p>
+
 <h3 align="left">🤝 Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.instagram.com/iluixfelipe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
