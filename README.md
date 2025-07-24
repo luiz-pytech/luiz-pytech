@@ -16,8 +16,8 @@
 
 <h3 align="left">🤝 Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://www.instagram.com/iluixfelipe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iluixfelipe" height="30" width="40" /></a>
-  <a href="mailto:lf06092004@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="lf06092004@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/iluixfelipe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:lf06092004@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 <h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,java,tensorflow,scikitlearn,c,cpp,qt,springboot&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,git,java,tensorflow,scikitlearn,c,cpp,qt,springboot&perline=10" />
   </a>
 </p>
 
