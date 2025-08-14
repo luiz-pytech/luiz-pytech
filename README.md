@@ -46,7 +46,7 @@
     <b>🤖 Machine Learning & Deep Learning:</b> Sólido conhecimento em algoritmos de classificação. Experiência prática no desenvolvimento de modelos preditivos.
   </li>
   <li>
-    <b>🔧 LLMs e IA Generativa:</b> Explorando o potencial de modelos de linguagem (LLMs) como GPT e BERT, e da IA Generativa para criar conteúdo, chatbots e soluções inovadoras em Processamento de Linguagem Natural (PLN).
+    <b>🔧 LLMs e IA Generativa:</b> Explorando o potencial de modelos de linguagem (LLMs) como GPT, DEEPSEEK, LLAMA, e da IA Generativa para criar conteúdo, chatbots e soluções inovadoras em Processamento de Linguagem Natural (PLN).
   </li>
   <li>
     <b>📷 Visão Computacional (CNNs):</b> Experiência com Redes Neurais Convolucionais para processamento de imagens.
