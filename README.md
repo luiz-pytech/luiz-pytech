@@ -18,9 +18,6 @@
 
 <h3 align="left">🎓 Formação Acadêmica</h3>
 
-<p align="left">
-  Minha jornada na tecnologia é diversificada, abrangendo desde o ensino técnico até a graduação em tecnologia.
-</p>
 
 <ul>
   <li>
@@ -28,7 +25,7 @@
     <i>Universidade Federal do Rio Grande do Norte (UFRN)</i>
   </li>
   <li>
-    <b>Ciência e Tecnologia</b> <br>
+    <b>Ciência e Tecnologia</b> (Concluído) <br>
     <i>Universidade do Estado do Rio Grande do Norte (UERN)</i>
   </li>
   <li>
