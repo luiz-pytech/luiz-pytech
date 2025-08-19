@@ -49,7 +49,7 @@
     <b>📷 Visão Computacional (CNNs):</b> Experiência com Redes Neurais Convolucionais para processamento de imagens.
   </li>
   <li>
-    <b>🐍 Python & Ecossistema de IA:</b> Proficiência em Python e suas principais bibliotecas para IA, como TensorFlow, PyTorch, Scikit-learn, Pandas e NumPy.
+    <b>🐍 Python & Ecossistema de IA:</b> Proficiência em Python e suas principais bibliotecas para IA, como TensorFlow, Scikit-learn, Pandas e NumPy.
   </li>
 </ul>
 
