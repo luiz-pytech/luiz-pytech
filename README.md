@@ -51,6 +51,9 @@
   <li>
     <b>🐍 Python & Ecossistema de IA:</b> Proficiência em Python e suas principais bibliotecas para IA, como TensorFlow, Scikit-learn, Pandas e NumPy.
   </li>
+  <li>
+    <b>🤖 Criação de agentes e chatbots com langgraph e langchain 
+  </li>
 </ul>
 
 ---
@@ -72,7 +75,7 @@
 <h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,java,tensorflow,scikitlearn,c,cpp,qt,springboot&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,git,java,tensorflow,scikitlearn,c,cpp,qt,springboot,postgresql,mysql&perline=12" />
   </a>
 </p>
 
