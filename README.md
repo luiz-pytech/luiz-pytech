@@ -75,7 +75,7 @@
 <h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,java,tensorflow,scikitlearn,c,cpp,qt,springboot,postgresql,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,git,java,tensorflow,scikitlearn,c,cpp,qt,springboot,postgresql,mysql,docker&perline=12" />
   </a>
 </p>
 
